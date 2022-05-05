@@ -1,6 +1,9 @@
+html {
+    background-color: #323036;
+}
 main {
     width: 500px;
-    border: 1px solid #343449;
+    border: 1px solid #1955c4;
 }
 
 .inputBox {
@@ -10,7 +13,7 @@ main {
 }
 
 .inputBox div{
-    background-color: #8686ad;
+    background-color: #737394;
     border: 1px solid #343449;
     font-size: 35px;
     width: 100%;
